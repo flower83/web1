@@ -1,0 +1,17 @@
+<style>
+p{
+   margin-top: 4em;
+   margin-bottom: 0em;
+   margin-left: 0em;
+   margin-right: 0em;
+}
+ol{
+  margin-top: 4em;
+}
+table, td {
+    border: 1px solid black;
+}
+span {
+ color:blue;font-weight:bold
+}
+</style>
